@@ -276,7 +276,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: true
   # Scroll percent label in b2t button.
-  scrollpercent: true
+  scrollpercent: false
 
 # A button to open designated chat widget in sidebar.
 # Firstly, you need enable the chat service you want to activate its sidebar button.
@@ -332,7 +332,7 @@ post_meta:
 symbols_count_time:
   separated_meta: true
   item_text_post: true
-  item_text_total: false
+  item_text_total: true
   awl: 4
   wpm: 275
 
@@ -541,7 +541,7 @@ pangu: false
 # Dependencies: https://github.com/theme-next/theme-next-quicklink
 # Visit https://github.com/GoogleChromeLabs/quicklink for details
 quicklink:
-  enable: true
+  enable: false
 
   # Quicklink (quicklink.umd.js script) is loaded on demand
   # Add `quicklink: true` in Front-matter of the page or post you need
@@ -862,7 +862,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: true
+  enable: false
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto

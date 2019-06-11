@@ -276,7 +276,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: true
   # Scroll percent label in b2t button.
-  scrollpercent: true
+  scrollpercent: false
 
 # A button to open designated chat widget in sidebar.
 # Firstly, you need enable the chat service you want to activate its sidebar button.

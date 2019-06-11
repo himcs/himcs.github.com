@@ -276,7 +276,7 @@ back2top:
   # Back to top in sidebar.
   sidebar: true
   # Scroll percent label in b2t button.
-  scrollpercent: true
+  scrollpercent: false
 
 # A button to open designated chat widget in sidebar.
 # Firstly, you need enable the chat service you want to activate its sidebar button.
@@ -541,7 +541,7 @@ pangu: false
 # Dependencies: https://github.com/theme-next/theme-next-quicklink
 # Visit https://github.com/GoogleChromeLabs/quicklink for details
 quicklink:
-  enable: true
+  enable: false
 
   # Quicklink (quicklink.umd.js script) is loaded on demand
   # Add `quicklink: true` in Front-matter of the page or post you need

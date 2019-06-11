@@ -1040,33 +1040,33 @@ vendors:
 
   # Internal version: 3.4.1
   # Example:
-  jquery: //cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js
+  # jquery: //cdn.jsdelivr.net/npm/jquery@3/dist/jquery.min.js
   # jquery: //cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
-  # jquery: //cdn.bootcss.com/jquery/3.4.1/jquery.min.js
+  jquery: //cdn.bootcss.com/jquery/3.4.1/jquery.min.js
 
   # Internal version: 2.1.5 & 3.5.7
   # See: https://fancyapps.com/fancybox
   # Example:
-  fancybox: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js
+  # fancybox: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.js
   # fancybox: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js
-  fancybox_css: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css
+  # fancybox_css: //cdn.jsdelivr.net/gh/fancyapps/fancybox@3/dist/jquery.fancybox.min.css
   # fancybox_css: //cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css
-  # fancybox:  //cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js
-  # fancybox_css: //cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css
+  fancybox:  //cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.js
+  fancybox_css: //cdn.bootcss.com/fancybox/3.5.7/jquery.fancybox.min.css
 
   # Internal version: 1.0.6
   # See: https://github.com/ftlabs/fastclick
   # Example:
-  fastclick: //cdn.jsdelivr.net/npm/fastclick@1/lib/fastclick.min.js
+  # fastclick: //cdn.jsdelivr.net/npm/fastclick@1/lib/fastclick.min.js
   # fastclick: //cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js
-  # fastclick: //cdn.bootcss.com/fastclick/1.0.6/fastclick.min.js
+  fastclick: //cdn.bootcss.com/fastclick/1.0.6/fastclick.min.js
 
   # Internal version: 1.9.7
   # See: https://github.com/tuupola/jquery_lazyload
   # Example:
-  lazyload: //cdn.jsdelivr.net/npm/jquery-lazyload@1/jquery.lazyload.min.js
+  # lazyload: //cdn.jsdelivr.net/npm/jquery-lazyload@1/jquery.lazyload.min.js
   # lazyload: //cdnjs.cloudflare.com/ajax/libs/jquery_lazyload/1.9.7/jquery.lazyload.min.js
-  # lazyload: //cdn.bootcss.com/lazyload/2.0.3/lazyload-min.js
+  lazyload: //cdn.bootcss.com/lazyload/2.0.3/lazyload-min.js
 
   # Internal version: 1.2.1
   # See: http://velocityjs.org
@@ -1096,12 +1096,12 @@ vendors:
   # Internal version: 1.0.2
   # See: https://github.com/HubSpot/pace
   # Example:
-  pace: //cdn.jsdelivr.net/npm/pace-js@1/pace.min.js
+  # pace: //cdn.jsdelivr.net/npm/pace-js@1/pace.min.js
   # pace: //cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/pace.min.js
-  pace_css: //cdn.jsdelivr.net/npm/pace-js@1/themes/blue/pace-theme-minimal.css
+  # pace_css: //cdn.jsdelivr.net/npm/pace-js@1/themes/blue/pace-theme-minimal.css
   # pace_css: //cdnjs.cloudflare.com/ajax/libs/pace/1.0.2/themes/blue/pace-theme-minimal.min.css
-  #pace: //cdn.bootcss.com/pace/1.0.2/pace.min.js
-  #pace_css: //cdn.bootcss.com/pace/1.0.2/themes/black/pace-theme-barber-shop.min.css
+  pace: //cdn.bootcss.com/pace/1.0.2/pace.min.js
+  pace_css: //cdn.bootcss.com/pace/1.0.2/themes/black/pace-theme-barber-shop.min.css
 
   # Internal version: 1.0.0
   # See: https://github.com/theme-next/theme-next-canvas-nest
@@ -1212,4 +1212,3 @@ vendors:
 css: css
 js: js
 images: images
-

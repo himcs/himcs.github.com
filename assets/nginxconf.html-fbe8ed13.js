@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6a6c54aa","path":"/other/php/nginxconf.html","title":"nginx 配置","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1607507086000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"other/php/nginxconf.md"}');export{t as data};

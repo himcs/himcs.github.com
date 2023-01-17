@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1d9b05cd","path":"/other/linux/ssh-D.html","title":"SSH 代理","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1607507086000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"other/linux/ssh-D.md"}');export{t as data};

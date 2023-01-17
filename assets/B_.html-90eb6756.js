@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-49308d6f","path":"/database/MySQL/%E7%B4%A2%E5%BC%95/B_.html","title":"B+Tree 索引","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1654841939000,"contributors":[{"name":"mcs","email":"mcshimcs@gmail.com","commits":1}]},"filePathRelative":"database/MySQL/索引/B+.md"}');export{a as data};

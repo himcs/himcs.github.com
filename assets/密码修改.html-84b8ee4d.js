@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3f80c180","path":"/database/MySQL/%E5%AF%86%E7%A0%81%E4%BF%AE%E6%94%B9.html","title":"密码修改","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1654841939000,"contributors":[{"name":"mcs","email":"mcshimcs@gmail.com","commits":1}]},"filePathRelative":"database/MySQL/密码修改.md"}');export{a as data};

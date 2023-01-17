@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as a,R as e,t as s}from"./framework-fa6fd9c7.js";const _={},c=e("h1",{id:"b-tree-索引",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#b-tree-索引","aria-hidden":"true"},"#"),s(" B+Tree 索引")],-1),o=e("p",null,"采用树形链表结构建立数据目录",-1),n=[c,o];function d(i,l){return r(),a("div",null,n)}const f=t(_,[["render",d],["__file","B_.html.vue"]]);export{f as default};

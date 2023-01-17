@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-2e25198a","path":"/database/","title":"Index","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1607507086000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"database/index.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-77e89ec8","path":"/middleware/seata/TCC.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1608866964000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"middleware/seata/TCC.md"}');export{e as data};

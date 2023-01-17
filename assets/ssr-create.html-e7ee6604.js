@@ -1,0 +1,4 @@
+import{_ as e,p as s,q as a,a1 as n}from"./framework-fa6fd9c7.js";const t={},c=n(`<h1 id="ssr-服务器搭建" tabindex="-1"><a class="header-anchor" href="#ssr-服务器搭建" aria-hidden="true">#</a> SSR 服务器搭建</h1><p>搭建前提条件</p><ul><li>[X] 一台具有公网IP的主机</li></ul><p><code>centos</code>可执行执行下面脚本</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>systemctl stop firewalld
+systemctl disable firewalld
+<span class="token function">wget</span> <span class="token parameter variable">-N</span> --no-check-certificate https://233blog.com/v2ray.sh <span class="token operator">&amp;&amp;</span> <span class="token function">bash</span> v2ray.sh
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,5),r=[c];function l(i,o){return s(),a("div",null,r)}const p=e(t,[["render",l],["__file","ssr-create.html.vue"]]);export{p as default};

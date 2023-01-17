@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"Himcs","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1630222608000,"contributors":[{"name":"himcs","email":"787632628@qq.com","commits":2},{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":2}]},"filePathRelative":"README.md"}');export{a as data};

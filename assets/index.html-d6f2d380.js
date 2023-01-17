@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e4cb1150","path":"/other/","title":"杂项","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1607507086000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"other/index.md"}');export{e as data};

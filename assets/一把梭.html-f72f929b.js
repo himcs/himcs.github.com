@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as i}from"./framework-fa6fd9c7.js";const _={},r=e("h1",{id:"工作流-activiti-入门",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#工作流-activiti-入门","aria-hidden":"true"},"#"),i(" 工作流 Activiti 入门")],-1),s=[r];function o(n,d){return a(),c("div",null,s)}const l=t(_,[["render",o],["__file","一把梭.html.vue"]]);export{l as default};

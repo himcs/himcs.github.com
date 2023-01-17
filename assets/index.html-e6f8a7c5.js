@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as c,R as e,t as a}from"./framework-fa6fd9c7.js";const n={},o=e("h1",{id:"himcs",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#himcs","aria-hidden":"true"},"#"),a(" Himcs")],-1),r=e("p",null,"这是首页",-1),_=[o,r];function i(d,h){return s(),c("div",null,_)}const m=t(n,[["render",i],["__file","index.html.vue"]]);export{m as default};

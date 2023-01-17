@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-684f2df9","path":"/java/util/","title":"框架","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1608174231000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"java/util/index.md"}');export{t as data};

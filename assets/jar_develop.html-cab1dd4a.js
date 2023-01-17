@@ -1,0 +1,5 @@
+import{_ as e,p as a,q as d,a1 as c}from"./framework-fa6fd9c7.js";const o={},t=c(`<h1 id="部署jar文件" tabindex="-1"><a class="header-anchor" href="#部署jar文件" aria-hidden="true">#</a> 部署<code>jar</code>文件</h1><p>首先本地进行打包,<code>Maven</code>使用<code>package</code>命令,得到<code>jar</code>包后,</p><p>创建<code>Dockerfile</code></p><div class="language-text line-numbers-mode" data-ext="text"><pre class="language-text"><code>FROM openjdk:8-jdk-alpine
+ARG JAR_FILE=target/*.jar
+COPY \${JAR_FILE} app.jar
+ENTRYPOINT [&quot;java&quot;,&quot;-jar&quot;,&quot;/app.jar&quot;]
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>创建镜像</p><p><code>docker build -t java/test .</code></p><p>运行</p><p><code>docker run -p 9090:8090 java/test</code></p>`,8),r=[t];function n(i,s){return a(),d("div",null,r)}const p=e(o,[["render",n],["__file","jar_develop.html.vue"]]);export{p as default};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-780e7036","path":"/java/framework/","title":"Java Framework","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1654847169000,"contributors":[{"name":"mcs","email":"mcshimcs@gmail.com","commits":1}]},"filePathRelative":"java/framework/index.md"}');export{a as data};

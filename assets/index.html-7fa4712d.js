@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744c2bd9","path":"/rfc/","title":"RFC","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1654841939000,"contributors":[{"name":"mcs","email":"mcshimcs@gmail.com","commits":1}]},"filePathRelative":"rfc/index.md"}');export{e as data};

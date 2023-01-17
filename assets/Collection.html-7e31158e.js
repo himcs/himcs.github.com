@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-faecb942","path":"/java/core/Collection.html","title":"集合","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"结构","slug":"结构","link":"#结构","children":[]}],"git":{"updatedTime":1607507086000,"contributors":[{"name":"himcs","email":"lik0x01@sp.noahgroup.com","commits":1}]},"filePathRelative":"java/core/Collection.md"}');export{e as data};

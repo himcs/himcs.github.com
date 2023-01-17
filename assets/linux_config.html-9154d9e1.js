@@ -1,0 +1,9 @@
+import{_ as e,p as a,q as n,a1 as s}from"./framework-fa6fd9c7.js";const d={},i=s(`<h1 id="linux-安装" tabindex="-1"><a class="header-anchor" href="#linux-安装" aria-hidden="true">#</a> Linux 安装</h1><h2 id="安装" tabindex="-1"><a class="header-anchor" href="#安装" aria-hidden="true">#</a> 安装</h2><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>yum <span class="token function">install</span> <span class="token parameter variable">-y</span> yum-utils device-mapper-persistent-data lvm2
+
+ yum-config-manager --add-repo http://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+
+yum <span class="token function">install</span> docker-ce
+
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2 id="配置docker数据位置" tabindex="-1"><a class="header-anchor" href="#配置docker数据位置" aria-hidden="true">#</a> 配置Docker数据位置</h2><p>修改<code>/usr/lib/systemd/system/docker.service</code> 中<code>ExecStart=/usr/bin/dockerd </code>部分所在的行，</p><p>修改为</p><p><code>ExecStart=/usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock --data-root=/data/docker</code></p><p>重启<code>docker</code>服务</p><div class="language-bash line-numbers-mode" data-ext="sh"><pre class="language-bash"><code>systemctl daemon-reload
+<span class="token function">service</span> <span class="token function">docker</span> start
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,9),c=[i];function r(o,t){return a(),n("div",null,c)}const u=e(d,[["render",r],["__file","linux_config.html.vue"]]);export{u as default};

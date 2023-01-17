@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as n}from"./framework-fa6fd9c7.js";const c={},o=e("h1",{id:"mybatis",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mybatis","aria-hidden":"true"},"#"),n(" mybatis")],-1),i=e("p",null,"mybatis",-1),r=[o,i];function _(d,l){return a(),s("div",null,r)}const m=t(c,[["render",_],["__file","index.html.vue"]]);export{m as default};

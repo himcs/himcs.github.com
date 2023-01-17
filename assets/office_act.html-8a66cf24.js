@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-6b164948","path":"/util/win_soft/office_act.html","title":"Office 激活方式","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1654841939000,"contributors":[{"name":"mcs","email":"mcshimcs@gmail.com","commits":2}]},"filePathRelative":"util/win_soft/office_act.md"}');export{t as data};
